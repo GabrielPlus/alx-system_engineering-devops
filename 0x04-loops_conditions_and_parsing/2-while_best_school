@@ -4,6 +4,6 @@
 COUNTER=0
 while [ $COUNTER -lt 10 ]
 do
-    echo "Holberton School"
+    echo "Best School"
     let COUNTER=COUNTER+1
 done
