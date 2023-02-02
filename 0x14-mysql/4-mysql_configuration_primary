@@ -4,7 +4,11 @@
 # You can copy this to one of:
 # - "/etc/mysql/my.cnf" to set global options,
 # - "~/.my.cnf" to set user-specific options.
+<<<<<<< HEAD
 #
+=======
+# 
+>>>>>>> feb4ec82e04520771d24a6dbd8100e9d673db9b6
 # One can use all long options that the program supports.
 # Run program with --help to get a list of available options and with
 # --print-defaults to see which it would actually understand and use.
