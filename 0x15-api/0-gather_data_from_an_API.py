@@ -5,7 +5,6 @@
 """
 import requests
 from sys import argv
-python3 -c 'print(__import__("my_module").__doc__
 
 
 if __name__ == "__main__":
@@ -62,7 +61,7 @@ def do_request():
           'is done with tasks({}/{}):'.
           format(len(completed), len(user_todos)))
     [print('\t', todo.get('title')) for todo in completed]
-
+python3 -c 'print(__import__("my_module").__doc__)'
 
 if __name__ == '__main__':
     do_request()
