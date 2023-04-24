@@ -5,6 +5,8 @@
 """
 import requests
 from sys import argv
+python3 -c 'print(__import__("my_module").__doc__
+
 
 if __name__ == "__main__":
     id_em = argv[1]
